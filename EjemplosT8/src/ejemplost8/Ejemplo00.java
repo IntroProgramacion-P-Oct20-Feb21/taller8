@@ -15,7 +15,7 @@ public class Ejemplo00 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here 
         
         int n = 8;
         double suma = 0;
